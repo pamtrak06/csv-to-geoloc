@@ -2,9 +2,11 @@
 
 ## User guide
 
+```bash
 ./csv-to-geoloc-geojson.sh <name of the csv filename without extension>
 ./csv-to-geoloc-geojson.sh "commerces-tournefeuille"
-  
+```
+
 Row header containing addresses has label "addresse".
 
 ## Links
