@@ -1,4 +1,4 @@
-# Convert csv with address to geojson with Point
+# Convert csv with French address to geojson with Point
 
 ## User guide
 
